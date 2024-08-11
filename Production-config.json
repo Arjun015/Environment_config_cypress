@@ -1,0 +1,6 @@
+{
+    "extends": "./cypress.json",
+    "baseUrl": "https://www.webdriveruniversity.com",
+    "username" : "arjun",
+    "password" : "arjun@123"
+  }
